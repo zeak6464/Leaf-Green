@@ -1,0 +1,1239 @@
+===============================================================================
+Sun May 06 13:08:27 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun May 06 13:09:22 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun May 06 13:11:03 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "GrandFestival"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun May 06 13:19:00 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "GrandFestival"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun May 06 14:13:29 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "GrandFestival"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun May 06 14:48:31 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "GrandFestival"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun May 06 16:34:37 Eastern Daylight Time 2018
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Sootopolis City"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Feb 18 14:09:14 Eastern Standard Time 2019
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun Jan 12 19:17:53 Eastern Standard Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Drawing panorama...
+Drew panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jan 15 18:51:14 Eastern Standard Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "SnowPoint"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jan 15 18:56:28 Eastern Standard Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "SnowPoint"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jan 16 19:24:32 Eastern Standard Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jan 16 19:31:20 Eastern Standard Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Gym"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Feb 10 13:07:14 Eastern Standard Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "PokéBowl"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "PokeMart"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "PokeMart"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Pokemon Center"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Tue Mar 24 23:30:10 Eastern Daylight Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Walk Intro"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Route 111"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Route 110"
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Tue Apr 21 21:01:50 Eastern Daylight Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "Gym"
+Saving "Gym"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Jun 22 16:04:38 Eastern Daylight Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Saving "SS. Anne B1"
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Drawing panorama...
+Drew panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Script 'SDK' line 0: Errno::ENOENT occured.
+
+No such file or directory - Graphics/Panoramas/DarkSky
+
+Backtrace:
+'SDK' line 0(eval) 1:in `initialize'
+'SDK' line 0(eval) 1:in `new'
+'SDK' line 0(eval) 1:in `load_bitmap'
+'SDK' line 0(eval) 1:in `panorama'
+'Spriteset_Map' line 80 in `init_panorama'
+'Spriteset_Map' line 32 in `initialize'
+'Scene_Main' line 212 in `new'
+'Scene_Main' line 212 in `generate'
+'Scene_Main' line 129 in `update_top'
+'Scene_Main' line 97 in `update'
+'SDK::Scene_Base' line 104 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Jun 22 16:05:41 Eastern Daylight Time 2020
+-------------------------------------------------------------------------------
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Collecting map data completed
+Starting to refresh preview
+Created bitmap
+Skipping panorama
+Drawing preview
+Skipping fog
+Finished refreshing preview.
+Collecting map data
+Script 'SDK' line 0: Errno::ENOENT occured.
+
+No such file or directory - Graphics/Autotiles/Stone in Water
+
+Backtrace:
+'SDK' line 0(eval) 1:in `initialize'
+'SDK' line 0(eval) 1:in `new'
+'SDK' line 0(eval) 1:in `load_bitmap'
+'SDK' line 0(eval) 1:in `autotile'
+'RPG::Cache' line 34 in `tile!'
+'Tile' line 36 in `initialize'
+'Spriteset_Map' line 103 in `new'
+'Spriteset_Map' line 103 in `init_tilemap'
+'Spriteset_Map' line 98 in `each'
+'Spriteset_Map' line 98 in `init_tilemap'
+'Spriteset_Map' line 96 in `each'
+'Spriteset_Map' line 96 in `init_tilemap'
+'Spriteset_Map' line 92 in `each'
+'Spriteset_Map' line 92 in `init_tilemap'
+'Spriteset_Map' line 33 in `initialize'
+'Scene_Main' line 212 in `new'
+'Scene_Main' line 212 in `generate'
+'Scene_Main' line 129 in `update_top'
+'Scene_Main' line 97 in `update'
+'SDK::Scene_Base' line 104 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+

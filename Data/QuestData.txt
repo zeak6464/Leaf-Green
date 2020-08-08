@@ -1,0 +1,39 @@
+Main Quest
+
+Become the very best!
+
+You are the very best!
+
+mobius_quest_break
+
+Pokemon Hunt!
+
+Collect 1 Patrat.
+
+Collect 1 Pidove.
+
+Collect 1 Pikachu.
+
+Completed!
+
+mobius_quest_break
+
+Help a Friend!
+
+Find a Potion!
+
+Completed!
+
+mobius_quest_break
+
+Test
+
+Pick up a Master Ball from Beignet town.
+
+Collect 1 Pikachu.
+
+Meet in Cyrus's office.
+
+Completed!
+
+mobius_quest_break

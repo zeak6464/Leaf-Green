@@ -1,0 +1,14 @@
+[0]
+Name="Kanto Region"
+Filename=mapRegion0.png
+Point=6,15,"Pallet Town",,2,28,18,
+Point=6,12,"Viridian City",,9,41,40,
+Point=6,7,"Pewter City",,15,30,39,
+Point=17,6,"Cerulean City",,26,27,36,
+Point=6,18,"Cinnabar Island",,160,23,25,
+Point=4,6,"Indigo Plateau",,185,20,17,
+Point=17,9,"Saffron City",,98,69,67,
+Point=15,16,"Fuchsia City",,133,23,38,
+Point=22,9,"Lavender Town",,59,10,16,
+Point=14,9,"Celadon City",,80,50,19,
+Point=17,13,"Vermilion City",,41,26,5,

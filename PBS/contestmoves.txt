@@ -1,0 +1,4 @@
+MEGAHORN,18,COOL,2,"Earn +2 if the Pokémon performs last in the turn."
+ATTACKORDER,4,SMART,2,"Earn +2 if the Judge's Voltage goes up."
+BUGBUZZ,4,CUTE,2,"Earn +2 if the Judge's Voltage goes up."
+XSCISSOR,17,BEAUTY,2,"Earn +2 if the Pokémon performs first in the turn."

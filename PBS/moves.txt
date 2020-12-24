@@ -10,7 +10,7 @@
 10,STRUGGLEBUG,Struggle Bug,045,50,BUG,Special,100,20,100,04,0,be,"While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced."
 11,TWINEEDLE,Twineedle,0BE,25,BUG,Physical,100,20,20,00,0,be,The foe is stabbed twice by a pair of stingers. It may also poison the target.
 12,FURYCUTTER,Fury Cutter,091,40,BUG,Physical,95,20,0,00,0,abef,The target is slashed with scythes or claws. Its power increases if it hits in succession.
-13,LEECHLIFE,Leech Life,0DD,20,BUG,Physical,100,15,0,00,0,abe,The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+13,LEECHLIFE,Leech Life,0DD,80,BUG,Physical,100,15,0,00,0,abe,The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
 14,PINMISSILE,Pin Missile,0C0,25,BUG,Physical,95,20,0,00,0,bef,Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
 15,DEFENDORDER,Defend Order,02A,0,BUG,Status,0,10,0,10,0,d,"The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats."
 16,HEALORDER,Heal Order,0D5,0,BUG,Status,0,10,0,10,0,di,The user calls out its underlings to heal it. The user regains up to half of its max HP.
@@ -149,7 +149,7 @@
 149,HEATCRASH,Heat Crash,09B,1,FIRE,Physical,100,10,0,00,0,abefm,"The user slams the foe with its flaming body. The heavier the user is, the greater the damage."
 150,SUNNYDAY,Sunny Day,0FF,0,FIRE,Status,0,5,0,20,0,,"The user intensifies the sun for five turns, powering up Fire-type moves."
 151,WILLOWISP,Will-O-Wisp,00A,0,FIRE,Status,85,15,0,00,0,bce,"The user shoots a sinister, bluish-white flame at the target to inflict a burn."
-152,SKYATTACK,Sky Attack,0C7,140,FLYING,Physical,90,5,30,00,0,befh,A second-turn attack move where critical hits land more easily. It may also make the target flinch.
+152,SKYATTACK,Sky Attack,0C7,200,FLYING,Physical,90,5,30,00,0,befh,A second-turn attack move where critical hits land more easily. It may also make the target flinch.
 153,BRAVEBIRD,Brave Bird,0FB,120,FLYING,Physical,100,15,0,00,0,abef,The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
 154,HURRICANE,Hurricane,015,110,FLYING,Special,70,10,30,00,0,bef,The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.
 155,AEROBLAST,Aeroblast,000,100,FLYING,Special,95,5,0,00,0,befh,A vortex of air is shot at the target to inflict damage. Critical hits land more easily.
@@ -192,7 +192,7 @@
 192,PETALDANCE,Petal Dance,0D2,120,GRASS,Special,100,10,0,02,0,abefo,The user attacks by scattering petals for two to three turns. The user then becomes confused.
 193,POWERWHIP,Power Whip,000,120,GRASS,Physical,85,10,0,00,0,abef,The user violently whirls its vines or tentacles to harshly lash the target.
 194,SEEDFLARE,Seed Flare,04F,120,GRASS,Special,85,5,40,00,0,bef,The user generates a shock wave from within its body. It may harshly lower the target's Sp. Def.
-195,SOLARBEAM,Solar Beam,0C4,120,GRASS,Special,100,10,0,00,0,bef,"A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+195,SOLARBEAM,Solar Beam,0C4,200,GRASS,Special,100,10,0,00,0,bef,"A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
 196,WOODHAMMER,Wood Hammer,0FB,120,GRASS,Physical,100,15,0,00,0,abef,The user slams its rugged body into the target to attack. The user also sustains serious damage.
 197,LEAFBLADE,Leaf Blade,000,90,GRASS,Physical,100,15,0,00,0,abefh,The user handles a sharp leaf like a sword and attacks by slashing. It has a high critical-hit ratio.
 198,ENERGYBALL,Energy Ball,046,90,GRASS,Special,100,10,10,00,0,be,The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
@@ -204,10 +204,10 @@
 204,NEEDLEARM,Needle Arm,00F,60,GRASS,Physical,100,15,30,00,0,abe,The user attacks by wildly swinging its thorny arms. It may also make the target flinch.
 205,RAZORLEAF,Razor Leaf,000,55,GRASS,Physical,95,25,0,04,0,befh,Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily.
 206,GRASSPLEDGE,Grass Pledge,106,50,GRASS,Special,100,10,0,00,0,bef,"A column of grass hits the foes. When used with its water equivalent, it creates a vast swamp."
-207,MEGADRAIN,Mega Drain,0DD,40,GRASS,Special,100,15,0,00,0,be,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+207,MEGADRAIN,Mega Drain,0DD,75,GRASS,Special,100,15,0,00,0,be,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
 208,VINEWHIP,Vine Whip,000,45,GRASS,Physical,100,25,0,00,0,abef,"The target is struck with slender, whiplike vines to inflict damage."
 209,BULLETSEED,Bullet Seed,0C0,25,GRASS,Physical,100,30,0,00,0,bef,The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession.
-210,ABSORB,Absorb,0DD,20,GRASS,Special,100,25,0,00,0,be,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+210,ABSORB,Absorb,0DD,40,GRASS,Special,100,25,0,00,0,be,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
 211,GRASSKNOT,Grass Knot,09A,1,GRASS,Special,100,20,0,00,0,abefm,"The user snares the target with grass and trips it. The heavier the target, the greater the damage."
 212,AROMATHERAPY,Aromatherapy,019,0,GRASS,Status,0,5,0,40,0,dk,The user releases a soothing scent that heals all status problems affecting the user's party.
 213,COTTONGUARD,Cotton Guard,038,0,GRASS,Status,0,10,0,10,0,d,"The user protects itself by wrapping its body in soft cotton, drastically raising its Defense stat."
@@ -300,7 +300,7 @@
 300,VICEGRIP,Vice Grip,000,55,NORMAL,Physical,100,30,0,00,0,abef,The target is gripped and squeezed from both sides to inflict damage.
 301,CUT,Cut,000,50,NORMAL,Physical,95,30,0,00,0,abef,The target is cut with a scythe or a claw. It can also be used to cut down thin trees.
 302,STRUGGLE,Struggle,002,50,NORMAL,Physical,0,1,0,00,0,abf,An attack that is used in desperation only if the user has no PP. It also hurts the user slightly.
-303,TACKLE,Tackle,000,40,NORMAL,Physical,100,35,0,00,0,abef,A physical attack in which the user charges and slams into the target with its whole body.
+303,TACKLE,Tackle,000,50,NORMAL,Physical,100,35,0,00,0,abef,A physical attack in which the user charges and slams into the target with its whole body.
 304,WEATHERBALL,Weather Ball,087,50,NORMAL,Special,100,10,0,00,0,bef,An attack move that varies in power and type depending on the weather.
 305,ECHOEDVOICE,Echoed Voice,092,40,NORMAL,Special,100,15,0,00,0,befk,"The user attacks the foe with an echoing voice. If this move is used every turn, it does greater damage."
 306,FAKEOUT,Fake Out,012,40,NORMAL,Physical,100,10,100,00,3,abe,An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.
@@ -572,9 +572,9 @@
 572,ELECTRIFY,Electrify,142,0,ELECTRIC,Status,0,20,0,00,0,bce,"The user shoots a bolt of power at the target and changes the target's type to electric."
 573,FAIRYLOCK,Fairy Lock,0EF,0,FAIRY,Status,0,10,0,08,0,bce,"By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn."
 574,FAIRYWIND,Fairy Wind,00,40,FAIRY,Special,100,30,0,00,0,bef,"The user stirs up a fairy wind and strikes the target with it."
-575,FELLSTINGER,Fell Stinger,141,35,BUG,Physical,100,25,100,00,0,abef,"When the user knocks out a target with this move, the user's Attack stat rises sharply."
+575,FELLSTINGER,Fell Stinger,141,50,BUG,Physical,100,25,100,00,0,abef,"When the user knocks out a target with this move, the user's Attack stat rises sharply."
 576,FLOWERSHIELD,Flower Shield,143,0,FAIRY,Status,0,10,0,01,0,,"The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power."
-577,FLYINGPRESS,Flying Press,000,80,FIGHTING,Physical,95,10,0,00,0,abefm,"The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+577,FLYINGPRESS,Flying Press,000,100,FIGHTING,Physical,95,10,0,00,0,abefm,"The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
 578,FORESTSCURSE,Forest's Curse,144,0,GRASS,Status,0,20,0,00,0,bce,"The user puts a forest curse on the target. Afflicted targets are now Grass type as well."
 579,FREEZEDRY,Freeze-Dry,144,70,ICE,Special,100,20,0,00,0,be,"The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types."
 580,GEOMANCY,Geomancy,147,0,FAIRY,Status,0,10,0,10,0,m,"The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn."
@@ -588,7 +588,7 @@
 588,MATBLOCK,Mat Block,158,0,FIGHTING,Status,0,10,0,10,4,dm,"Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves."
 589,MISTYTERRAIN,Misty Terrain,150,0,FAIRY,Status,0,10,0,01,0,dm,"The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions."
 590,MOONBLAST,Moonblast,045,95,FAIRY,Special,100,15,10,00,0,bef,"Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
-591,MYSTICALFIRE,Mystical Fire,045,65,FIRE,Special,100,10,0,00,0,bef,"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
+591,MYSTICALFIRE,Mystical Fire,045,75,FIRE,Special,100,10,0,00,0,bef,"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
 592,NOBLEROAR,Noble Roar,1AA,0,NORMAL,Status,100,30,0,00,0,bcfk,"Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats.
 593,NUZZLE,Nuzzle,008,20,ELECTRIC,Physical,100,20,100,00,0,abef,"The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
 594,OBLIVIONWING,Oblivion Wing,138,80,FLYING,Special,100,10,0,00,0,bf,"The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target."
